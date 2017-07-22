@@ -433,9 +433,6 @@
 	background: linear-gradient(135deg, hsla(0,0%,50%,.3), hsla(0,0%,30%,.3)) !important;
 	box-shadow: inset 0 0 10px hsl(0,0%,40%) !important;
 }
-#woot .label { visibility: hidden }
-#woot .label::after { visibility: visible; content: "I LOVE THIS"; }
-}
 #woot.selected, #woot-rs .title {
 	background: linear-gradient(135deg, hsla(90,80%,50%,.8), hsla(90,80%,30%,.8)) !important;
 	box-shadow: inset 0 0 10px hsl(70,100%,40%) !important;
