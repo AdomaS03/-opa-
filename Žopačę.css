@@ -391,11 +391,8 @@
 }
 #woot, #grab, #meh {
 	margin-top: 0 !important;
-#woot .pvw-title span {
-  display: none;
-}
 #woot .pvw-title:after {
-  content: 'whatever it is you want to add';
+  content: "Test";
 }
 #vote .selected,
 #vote .selected .value {
