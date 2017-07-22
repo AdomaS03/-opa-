@@ -392,7 +392,7 @@
 #woot, #grab, #meh {
 	margin-top: 0 !important;
 #woot .label { visibility: hidden }
-#woot .label::after { visibility: visible; content: "I LOVE THIS"; }
+#woot .label::after { visibility: visible; content: "Patinka"; }
 }
 #vote .selected,
 #vote .selected .value {
