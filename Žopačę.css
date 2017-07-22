@@ -1,2 +1,2 @@
-#woot .label { visibility: hidden }
-#woot .label::after { visibility: visible; content: "I LOVE THIS"; }
+#woot.label { visibility: hidden }
+#woot.label::after { visibility: visible; content: "I LOVE THIS"; }
