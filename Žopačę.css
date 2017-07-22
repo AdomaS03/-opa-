@@ -391,8 +391,12 @@
 }
 #woot, #grab, #meh {
 	margin-top: 0 !important;
-#woot .label { visibility: hidden }
-#woot .label::after { visibility: visible; content: "Patinka"; }
+#woot .pvw-title span {
+  display: none;
+}
+#woot .pvw-title:after {
+  content: 'whatever it is you want to add';
+}
 }
 #vote .selected,
 #vote .selected .value {
