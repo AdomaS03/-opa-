@@ -397,7 +397,6 @@
 #woot .pvw-title:after {
   content: 'whatever it is you want to add';
 }
-}
 #vote .selected,
 #vote .selected .value {
 	font-weight: bold;
